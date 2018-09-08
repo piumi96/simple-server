@@ -24,4 +24,4 @@ app.post('/login', function(req, res){
             msg:  'false'
         });
     }
-});
+});//server
